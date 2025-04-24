@@ -1,4 +1,4 @@
-# [JackBlanket Profile](.README.md)
+# [JackBlanket Profile](README.md)
 
 - README.md
 - /features.md
