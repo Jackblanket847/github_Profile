@@ -1,3 +1,6 @@
-# [IR PROFILE](README.md)
+# [IR](README.md)
 
 - README.md
+- DOC.docs
+- SRC.src
+- About.md
