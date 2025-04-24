@@ -1,4 +1,4 @@
-# [JackBlanket Profile](github.com/jackblanket847/.profile/README.md)
+# [JackBlanket Profile](jackblanket847/profile/README.md)
 
 - README.md
 - /features.md
