@@ -1,4 +1,11 @@
-# [Repository](https://github.com/Jackblanket847?tab=(READMEs)
+# '[?tab/=/README](./profile?tab=README.md)'
 
-<key>Repository</key>
-                   <value>https://github.com/Jackblanket847?tab=read-edits</value>
+## 'path' 'labels' into 'holder'.
+
+- '?tab=path.directory('label')'
+
+## ?tab/=/
+
+- github.com/Jackblanket847?tab=.profile/README
+
+- github.com/Jackblanket847?tab=repositories/README
