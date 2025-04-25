@@ -1,4 +1,4 @@
-# [Repository](https://github.com/Jackblanket847?tab=(Profile)
+# [Repository](https://github.com/Jackblanket847?tab=(READMEs)
 
 <key>Repository</key>
-                   <value>https://github.com/Jackblanket847?tab=.profile</value>
+                   <value>https://github.com/Jackblanket847?tab=read-edits</value>
