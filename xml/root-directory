@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<directory>
+  <folder name="root">
+    <folder name="subfolder1">
+      <file name="file1.txt"/>
+      <file name="file2.txt"/>
+    </folder>
+    <folder name="subfolder2">
+      <file name="file3.txt"/>
+    </folder>
+  </folder>
+</directory>
